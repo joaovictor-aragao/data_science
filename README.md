@@ -13,4 +13,8 @@ This is a repository of studies materials, codes and data for my data analysis, 
 
 This is a list of projects using Google Colaboratory:
 
-* **Detecção de Fraudes em Cartões de Crédito:**
+* **[Análise de Risco de Crédito](https://colab.research.google.com/drive/1K4YpvgE8WhtFkQvo-xDxZJVCpZIPGJS8#scrollTo=ZiRkGrXvhqHc)**
+
+## Software
+
+The example programs and other software provided in this repository are made available under the [OSI](http://opensource.org/)-approved [MIT license](http://opensource.org/licenses/mit-license.html).
